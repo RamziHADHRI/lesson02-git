@@ -1,2 +1,4 @@
 my first file - V1
 second line added
+when entering the command git commit -m second commit is have a message : nothing to commit, working directory clean
+second line added 
